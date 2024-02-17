@@ -29,7 +29,7 @@ http://localhost:8080/api/v1/student
 ```bash
 http://localhost:8080/api/v1/student/3
 ```
-* PUT ("3" is the studentID, "new_name" is the name you want to update, "new@..." is the email you want to update):
+* PUT ("new_name" is the name you want to update, "new@..." is the email you want to update):
 ```bash
 http://localhost:8080/api/v1/student/3?name=new_name
 http://localhost:8080/api/v1/student/3?name=new&email=new@gmail.com
