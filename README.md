@@ -4,6 +4,7 @@ A CRUD application includes obtaining all student data, adding a student, deleti
 Implemented using the Spring Boot framework, Java, JDBC, JPA, and PostgreSQL.
 
 ![image](https://github.com/JesseLee62/img-storage/blob/master/Student-Management-System/springboot%26java%26postgresql.jpg)
+
 ![image](https://github.com/JesseLee62/img-storage/blob/master/Student-Management-System/overview.jpg)
 
 ##This application is already packaged. You can directly execute it from the target folder.
